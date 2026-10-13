@@ -7,12 +7,12 @@ A full-stack project with a React frontend designed from a provided Figma refere
 - **Frontend:** React, TypeScript, and Tailwind CSS. The UI follows the supplied mobile app design, with a focus on a pixel-perfect implementation.
 - **Backend:** Node.js, Express, and MongoDB. Provides employee registration and login, public enquiry submission, and counselor lead management APIs secured with JWT where required.
 
-## Frontend Snapshot
+## Frontend Snapshots
 
-![alt text](image.png)
-![alt text](image-1.png)
-![alt text](image-2.png)
-![alt text](image-3.png)
+<img width="468" height="906" alt="image" src="https://github.com/user-attachments/assets/e81502e5-3276-477c-ada9-f569d79d66c8" />
+<img width="465" height="906" alt="image" src="https://github.com/user-attachments/assets/96320c94-bcbe-4ef9-91af-9e97eb42c474" />
+<img width="465" height="907" alt="image" src="https://github.com/user-attachments/assets/db2f7a20-bd2b-4860-a980-0861bff95d5d" />
+<img width="465" height="907" alt="image" src="https://github.com/user-attachments/assets/c018cc2d-488c-4436-ba7b-f179c66f36f2" />
 
 ## Deployments
 
